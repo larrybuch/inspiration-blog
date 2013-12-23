@@ -1,0 +1,1 @@
+Drag images into a Dropbox folder. Create an inspiration blog. 
