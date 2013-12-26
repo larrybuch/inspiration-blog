@@ -2,3 +2,21 @@ body, html {
 	margin: 0;
 	padding: 0;
 }
+
+.columns_wrapper {
+	text-align: center;
+	margin-top: 28px;
+}
+
+.column {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.colitem_wrapper {
+	padding: 0px 20px 40px 20px;
+}
+
+.column img {
+	width: 100%;
+}
